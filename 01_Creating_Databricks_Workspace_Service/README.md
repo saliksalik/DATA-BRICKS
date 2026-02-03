@@ -2,11 +2,10 @@
 
 This lab guides you through creating a Databricks workspace in Azure.
 
-## 1) Intro
+## 1) Introduction
 - Log in to Azure portal at portal.azure.com.
 - Access the Azure portal homepage.
 
-![Screenshot 1](https://github.com/saliksalik/DATA-BRICKS/blob/main/01_Creating_Databricks_Workspace_Service/outputs/Intro.png?raw=true)
 
 ## 2) Accessing Databricks
 - Search for "Azure Databricks" in the search bar.
