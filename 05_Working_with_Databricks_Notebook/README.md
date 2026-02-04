@@ -29,8 +29,6 @@ This lab introduces Databricks Notebooks, covering creation, configuration, code
 ### Step 5: Attach Notebook to Cluster
 - Click the Connect button; if no cluster, create new.
 
-![Attaching Notebook to Cluster](https://github.com/saliksalik/DATA-BRICKS/blob/main/05_Working_with_Databricks_Notebook/outputs/Attaching%20Notebook%20to%20Cluster.png?raw=true)
-
 ### Step 8: Write and Run Code in Cell
 - Enter code in the first cell, run it (Ctrl+Enter).
 
