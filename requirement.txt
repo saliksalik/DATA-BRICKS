@@ -11,3 +11,14 @@ Then, check the outputs folder for images, list them,
    Handle any branch issues by pushing to both main and master branches, merging if necessary. 
    Address potential issues like missing images (note if any are absent), branch mismatches,
     and ensure the README renders images inline on GitHub."
+
+
+
+
+    For Lab [Number, e.g., 2]: [Lab Name, e.g., Introduction to Databricks Workspace],
+     check the outputs folder in the [Lab Folder, e.g., 02_Introduction_to_Databricks_Workspace]
+     directory for image files. Update the README.md to reference the actual
+      image names using full GitHub permalinks (URLs with ?raw=true) so they 
+      display inline on the GitHub README. Commit the changes with a descriptive 
+      message, push to both main and master branches (handling any merges or conflicts),
+       and ensure the images are visible on the rendered README on GitHub
