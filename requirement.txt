@@ -1,3 +1,13 @@
-"Document Lab 2: [Lab Name, e.g., Introduction to Databricks Workspace] in the repository. Create a README.md in the 02_[Lab Folder Name] directory with a step-by-step guide documenting the lab as if I'm doing it – explain actions with output screenshots, keep it concise without long paragraphs. Use the provided transcript/material: [Paste the full transcript or material here].
+"Document Lab 2: [Lab Name, e.g., Introduction to Databricks Workspace] in the repository.
+ Create a README.md in the 02_[Lab Folder Name] directory
+  with a step-by-step guide documenting the lab as if I'm doing it 
+  – explain actions with output screenshots, keep it concise without long paragraphs. 
+  Use the provided transcript/material: [Paste the full transcript or material here].
 
-Then, check the outputs folder for images, list them, update the README to reference the actual image names (e.g., 'Image Name.png'), commit and push to GitHub. Ensure images display properly on GitHub by using full GitHub URLs with ?raw=true if relative paths don't work. Handle any branch issues by pushing to both main and master branches, merging if necessary. Address potential issues like missing images (note if any are absent), branch mismatches, and ensure the README renders images inline on GitHub."
+Then, check the outputs folder for images, list them,
+ update the README to reference the actual image names (e.g., 'Image Name.png'),
+  commit and push to GitHub. Ensure images display properly 
+  on GitHub by using full GitHub URLs with ?raw=true if relative paths don't work.
+   Handle any branch issues by pushing to both main and master branches, merging if necessary. 
+   Address potential issues like missing images (note if any are absent), branch mismatches,
+    and ensure the README renders images inline on GitHub."
